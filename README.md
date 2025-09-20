@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://in.pinterest.com/pin/coding-animations--30047522505371444/"  />
-</div>
-
 ###
 
 <div align="center">
